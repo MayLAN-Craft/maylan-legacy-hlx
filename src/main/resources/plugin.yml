@@ -1,0 +1,4 @@
+name: MaylanHLX
+version: 1.0.0
+main: ru.maylan.HLXPlugin
+api-version: 1.21.10

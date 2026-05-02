@@ -1,0 +1,8 @@
+# Что ищем в сообщении (по умолчанию — символ '3')
+pattern: "3"
+
+# Сообщение в стиле Half-Life (λ — греческая лямбда)
+message: "λ Half-Life 3 confirmed!"
+
+# true — показать всем, false — только автору
+broadcast: true
