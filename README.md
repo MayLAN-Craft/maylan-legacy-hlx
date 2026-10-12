@@ -2,10 +2,6 @@
 
 **MaylanHLX** — это простой, но стильный плагин для Minecraft Paper/Spigot, который автоматически анонсирует подтверждение "Half-Life" при обнаружении заданного паттерна в чате. Идеально подходит для добавления атмосферы игры Half-Life 3 на ваш сервер!
 
-[![Java](https://img.shields.io/badge/language-Java-orange)](https://www.java.com/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
-[![API Version](https://img.shields.io/badge/Paper/1.21.10-blue)](https://papermc.io/downloads/paper/1.21.10/)
-
 ## ✨ Функционал
 
 * **Автоматический триггер:** Плагин постоянно отслеживает все сообщения в чате (асинхронно).
